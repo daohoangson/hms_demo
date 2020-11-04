@@ -1,0 +1,2 @@
+agconnect-services.json filter=git-crypt diff=git-crypt
+keystore.jks filter=git-crypt diff=git-crypt
